@@ -4,16 +4,6 @@
       "id": 1,
       "title": "json-server",
       "author": "typicode"
-    },
-    {
-      "title": "New Post",
-      "content": "This is a new post created using JSON Server.",
-      "id": 2
-    },
-    {
-      "title": "New Post",
-      "content": "This is a new post created using JSON Server.",
-      "id": 3
     }
   ],
   "comments": [
